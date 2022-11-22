@@ -2,7 +2,7 @@ package linecomperason;
 
 import java.util.Scanner;
 
-public class GeometryCheckEqualityOfTwoLine {
+public class GeometryCompareTwoLineBased {
 
     public static void main(String[] args) {
         System.out.println("Welcome to Line Comparison Computation Program");
