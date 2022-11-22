@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0609ca2-63bd-48e7-a792-afaf5303c73f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linecomperason/GeometryCheckEqualityOfTwoLine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linecomperason/GeometryCheckEqualityOfTwoLines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linecomperason/GeometryCheckEqualityOfTwoLines.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
